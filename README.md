@@ -1,9 +1,11 @@
 PintOS Project - CS162 Group Repository - [PintOS][pintos].
-[pintos]: http://web.stanford.edu/class/cs140/projects/pintos/pintos.html
-DISCLAIMER: DO NOT EVER USE this for your coursework.
 ======================
 
-This repository contains code for CS162 group projects.
+[pintos]: http://web.stanford.edu/class/cs140/projects/pintos/pintos.html
+
+
+DISCLAIMER: DO NOT EVER USE this for your coursework; აბა სხვა რისთვის გინდათ ჰო :დ
+
 ## Project 1
 
 - Wait Queue
