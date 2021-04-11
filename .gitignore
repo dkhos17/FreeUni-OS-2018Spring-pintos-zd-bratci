@@ -1,0 +1,9 @@
+*.o
+*.pyc
+*.swp
+*~
+.DS_Store
+pintos/**/build
+.vagrant/
+.vscode/
+Vagrantfile
