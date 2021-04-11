@@ -1,7 +1,32 @@
-CS162 Group Repository
+PintOS Project - CS162 Group Repository - [PintOS][pintos].
+[pintos]: http://web.stanford.edu/class/cs140/projects/pintos/pintos.html
+DISCLAIMER: DO NOT EVER USE this for your coursework.
 ======================
 
 This repository contains code for CS162 group projects.
+## Project 1
+
+- Wait Queue
+- Basic Priority Scheduling
+
+## Project 2
+
+- User Program Exeuction
+- Process Management
+- System Calls
+
+## Project 3
+
+- Stack Growth
+- Virtual Memory (Paging)
+- Memory-Mapped Files
+
+## Project 4
+
+- Buffer Cache
+- Extensible Files
+- Filesystem and Subdirectories
+
 
 **Design documents**
 
